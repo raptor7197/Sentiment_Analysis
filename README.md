@@ -28,3 +28,4 @@ At last we chech the accuracy of the model.
 
 PS: my first attempt at ML
 
+edit : can be done better using NLP
